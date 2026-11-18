@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,email,department,job_title,salary,hire_date
+1001,Avery,Johnson,avery.johnson@example.com,Engineering,Software Engineer,92000,2022-03-14
+1002,Jordan,Lee,jordan.lee@example.com,Human Resources,HR Specialist,68000,2021-08-02
+1003,Taylor,Patel,taylor.patel@example.com,Finance,Financial Analyst,76000,2023-01-09
+1004,Morgan,Chen,morgan.chen@example.com,Marketing,Marketing Coordinator,64000,2020-11-16
+1005,Riley,Garcia,riley.garcia@example.com,Sales,Account Executive,81000,2022-06-27
+1006,Casey,Wilson,casey.wilson@example.com,Engineering,QA Engineer,84000,2021-04-19
+1007,Quinn,Kim,quinn.kim@example.com,Customer Support,Support Specialist,59000,2023-09-11
+1008,Jamie,Brown,jamie.brown@example.com,Operations,Operations Manager,98000,2019-02-04
+1009,Drew,Nguyen,drew.nguyen@example.com,Finance,Payroll Administrator,62000,2024-02-12
+1010,Reese,Martin,reese.martin@example.com,Marketing,Content Writer,67000,2022-10-03
